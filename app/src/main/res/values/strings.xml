@@ -26,4 +26,6 @@
         sollicitudin convallis eget sit amet lectus. In rutrum tempor nulla at sodales. Sed eget
         mattis dolor, nec pellentesque libero. Curabitur sodales tincidunt tortor nec fermentum.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
