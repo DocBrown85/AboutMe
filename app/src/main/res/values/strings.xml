@@ -2,4 +2,28 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Firstname Lastname</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque turpis ante,
+        non ultrices leo ullamcorper a. Aenean rutrum, ligula sit amet interdum dapibus, velit diam
+        vulputate est, vitae congue mi sem at ex. Donec porttitor metus nisi. Praesent nec nunc nec
+        nunc consequat convallis. Aenean lacinia lacinia tortor, id sollicitudin felis.
+        Cras suscipit odio eu sollicitudin interdum. Nunc quis congue nulla. Donec eget efficitur
+        urna, vitae malesuada justo. Etiam ullamcorper lorem tortor, a venenatis purus egestas a.
+        Sed convallis, massa dapibus molestie auctor, ex turpis laoreet ex, vitae pellentesque ex
+        diam vel eros. Vivamus in convallis urna, quis maximus lectus. Nam sagittis nisi orci.
+        \n\n
+        Cras est dolor, aliquet porta accumsan quis, tristique eu massa. Curabitur lorem risus,
+        commodo eget ligula id, rutrum finibus quam. Etiam accumsan eleifend augue, eget interdum tellus.
+        Nam condimentum ornare neque, at molestie massa vestibulum eu. Ut diam ligula, ultrices eu
+        rutrum ac, tempor sit amet justo. Suspendisse potenti. Nam tempus scelerisque fringilla.
+        Maecenas lacinia tortor in nulla posuere, at porttitor erat pulvinar. Mauris sed justo ac
+        massa dignissim aliquet non vitae ante.
+        \n\n
+        Etiam egestas elit ac blandit mollis. Aliquam tincidunt lacinia dolor et porta. Nulla dolor
+        mauris, aliquet ut malesuada eu, accumsan congue mi. Sed cursus nulla eu lorem convallis
+        feugiat. Fusce cursus pulvinar risus in vulputate. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada fames ac turpis egestas. Quisque vitae neque rhoncus eros
+        sollicitudin convallis eget sit amet lectus. In rutrum tempor nulla at sodales. Sed eget
+        mattis dolor, nec pellentesque libero. Curabitur sodales tincidunt tortor nec fermentum.
+    </string>
 </resources>
