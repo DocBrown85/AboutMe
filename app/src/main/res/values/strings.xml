@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">AboutMe</string>
-    <string name="name">Firstname Lastname</string>
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque turpis ante,
